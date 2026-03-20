@@ -1,40 +1,83 @@
-# Pseudocode Assignment in Rust
+### Updated Pseudocode Assignment
+
+---
 
 ## Student Details
 
-- Name: Prakhar Shrivastav
-- Subject: Pseudocode
-- Professor: Amar Nayak
-- Semester: VI
+- **Name:** Prakhar Shrivastav
+- **Subject:** Pseudocode
+- **Professor:** Amar Nayak
+- **Semester:** VI
 
 ---
 
 ## Assignment Overview
 
-| No. | Topic                      | Pseudocode                            | Rust Code                               |
-| --- | -------------------------- | ------------------------------------- | --------------------------------------- |
-| 1   | Add Digits of a Number     | [View](#1-add-digits-of-a-number)     | [Open](./src/solutions/add_digits.rs)   |
-| 2   | Search a Digit in a Number | [View](#2-search-a-digit-in-a-number) | [Open](./src/solutions/search_digit.rs) |
+| No. | Topic                           | Pseudocode                                                              | Rust Code                                                               |
+| --- | ------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 1   | Swap Two Numbers (With Temp)    | [View](https://www.google.com/search?q=%233-swap-two-numbers-with-temp) | [Open](https://www.google.com/search?q=./src/solutions/swap_temp.rs)    |
+| 2   | Swap Two Numbers (Without Temp) | [View](https://www.google.com/search?q=%234-swap-two-numbers-no-temp)   | [Open](https://www.google.com/search?q=./src/solutions/swap_no_temp.rs) |
+| 3   | Average of Three Numbers        | [View](https://www.google.com/search?q=%235-average-of-three-numbers)   | [Open](https://www.google.com/search?q=./src/solutions/avg_three.rs)    |
 
 ---
 
-## 1. Add Digits of a Number
+## 1\. Swap Two Numbers (With Temp)
 
-Write an algorithm and pseudocode to add all digits of a number.
+Write a pseudocode to swap two numbers using a temporary variable.
 
 ### Pseudocode
 
 ```text
-START
-INPUT number
-sum ← 0
+DECLARE a := INTEGER
+DECLARE b := INTEGER
+DECLARE temp := INTEGER
 
-WHILE number > 0 DO
-    digit ← number MOD 10
-    sum ← sum + digit
-    number ← number DIV 10
-END WHILE
+READ a, b
 
-PRINT sum
-STOP
+temp := a
+a := b
+b := temp
+
+PRINT a, b
+```
+
+---
+
+## 2\. Swap Two Numbers (Without Temp)
+
+Write a pseudocode to swap two numbers without a temporary variable.
+
+### Pseudocode
+
+```text
+DECLARE a := INTEGER
+DECLARE b := INTEGER
+
+READ a, b
+
+a := a + b
+b := a - b
+a := a - b
+
+PRINT a, b
+```
+
+---
+
+## 3\. Average of Three Numbers
+
+Write pseudocode to calculate the average of three numbers.
+
+### Pseudocode
+
+```text
+DECLARE a := INTEGER
+DECLARE b := INTEGER
+DECLARE c := INTEGER
+
+READ a, b, c
+
+DECLARE AVG := (a + b + c) / 3
+
+PRINT AVG
 ```
