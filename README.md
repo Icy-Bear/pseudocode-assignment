@@ -11,10 +11,10 @@
 
 ## Assignment Overview
 
-| No. | Topic                      | Rust Code                               |
-| --- | -------------------------- | --------------------------------------- |
-| 1   | Add Digits of a Number     | [Open](./src/solutions/add_digits.rs)   |
-| 2   | Search a Digit in a Number | [Open](./src/solutions/search_digit.rs) |
+| No. | Topic                      | Pseudocode                            | Rust Code                               |
+| --- | -------------------------- | ------------------------------------- | --------------------------------------- |
+| 1   | Add Digits of a Number     | [View](#1-add-digits-of-a-number)     | [Open](./src/solutions/add_digits.rs)   |
+| 2   | Search a Digit in a Number | [View](#2-search-a-digit-in-a-number) | [Open](./src/solutions/search_digit.rs) |
 
 ---
 
