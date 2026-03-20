@@ -2,10 +2,10 @@
 
 ## Student Details
 
-- Name: Your Name
+- Name: Prakhar Shrivastav
 - Subject: Pseudocode
-- Professor: Your Professor Name
-- Semester: Your Semester
+- Professor: Amar Nayak
+- Semester: VI
 
 ---
 
@@ -19,8 +19,6 @@
 ---
 
 ## 1. Add Digits of a Number
-
-### Question
 
 Write an algorithm and pseudocode to add all digits of a number.
 
