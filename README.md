@@ -14,45 +14,25 @@
 
 ---
 
-## Table of Contents
-
-1. [Swap Two Numbers (With Temp)](#1-swap-two-numbers-with-temp)
-2. [Swap Two Numbers (Without Temp)](#2-swap-two-numbers-without-temp)
-3. [Average of Three Numbers](#3-average-of-three-numbers)
-4. [Sum of Natural Numbers](#4-sum-of-natural-numbers)
-5. [Sum of Squares](#5-sum-of-squares)
-6. [Factorial of a Number](#6-factorial-of-a-number)
-7. [Armstrong Number](#7-armstrong-number)
-8. [Palindrome Number](#8-palindrome-number)
-9. [Add Digits of a Number](#9-add-digits-of-a-number)
-10. [Search a Digit in a Number](#10-search-a-digit-in-a-number)
-11. [Prime Number Check](#11-prime-number-check)
-12. [Fibonacci Series](#12-fibonacci-series)
-13. [Reverse a Number](#13-reverse-a-number)
-14. [Count Occurrences of a Digit](#14-count-occurrences-of-a-digit)
-15. [Max Element in an Array](#15-max-element-in-an-array)
-
----
-
 ## Assignment Overview
 
-| No. | Topic                           | Section Link                              |
-| --- | ------------------------------- | ----------------------------------------- |
-| 1   | Swap Two Numbers (With Temp)    | [#1-swap-two-numbers-with-temp](#1-swap-two-numbers-with-temp) |
-| 2   | Swap Two Numbers (Without Temp) | [#2-swap-two-numbers-without-temp](#2-swap-two-numbers-without-temp) |
-| 3   | Average of Three Numbers        | [#3-average-of-three-numbers](#3-average-of-three-numbers) |
-| 4   | Sum of Natural Numbers          | [#4-sum-of-natural-numbers](#4-sum-of-natural-numbers) |
-| 5   | Sum of Squares                  | [#5-sum-of-squares](#5-sum-of-squares) |
-| 6   | Factorial of a Number           | [#6-factorial-of-a-number](#6-factorial-of-a-number) |
-| 7   | Armstrong Number                | [#7-armstrong-number](#7-armstrong-number) |
-| 8   | Palindrome Number               | [#8-palindrome-number](#8-palindrome-number) |
-| 9   | Add Digits of a Number          | [#9-add-digits-of-a-number](#9-add-digits-of-a-number) |
-| 10  | Search a Digit in a Number      | [#10-search-a-digit-in-a-number](#10-search-a-digit-in-a-number) |
-| 11  | Prime Number Check              | [#11-prime-number-check](#11-prime-number-check) |
-| 12  | Fibonacci Series                | [#12-fibonacci-series](#12-fibonacci-series) |
-| 13  | Reverse a Number                | [#13-reverse-a-number](#13-reverse-a-number) |
-| 14  | Count Occurrences of a Digit    | [#14-count-occurrences-of-a-digit](#14-count-occurrences-of-a-digit) |
-| 15  | Max Element in an Array          | [#15-max-element-in-an-array](#15-max-element-in-an-array) |
+| No. | Topic                           | Pseudocode                               | Rust Code |
+| --- | ------------------------------- | ---------------------------------------- | --------- |
+| 1   | Swap Two Numbers (With Temp)    | [View](#1-swap-two-numbers-with-temp)    |           |
+| 2   | Swap Two Numbers (Without Temp) | [View](#2-swap-two-numbers-without-temp) |           |
+| 3   | Average of Three Numbers        | [View](#3-average-of-three-numbers)      |           |
+| 4   | Sum of Natural Numbers          | [View](#4-sum-of-natural-numbers)        |           |
+| 5   | Sum of Squares                  | [View](#5-sum-of-squares)                |           |
+| 6   | Factorial of a Number           | [View](#6-factorial-of-a-number)         |           |
+| 7   | Armstrong Number                | [View](#7-armstrong-number)              |           |
+| 8   | Palindrome Number               | [View](#8-palindrome-number)             |           |
+| 9   | Add Digits of a Number          | [View](#9-add-digits-of-a-number)        |           |
+| 10  | Search a Digit in a Number      | [View](#10-search-a-digit-in-a-number)   |           |
+| 11  | Prime Number Check              | [View](#11-prime-number-check)           |           |
+| 12  | Fibonacci Series                | [View](#12-fibonacci-series)             |           |
+| 13  | Reverse a Number                | [View](#13-reverse-a-number)             |           |
+| 14  | Count Occurrences of a Digit    | [View](#14-count-occurrences-of-a-digit) |           |
+| 15  | Max Element in an Array         | [View](#15-max-element-in-an-array)      |           |
 
 ---
 
